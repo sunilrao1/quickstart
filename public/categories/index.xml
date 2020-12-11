@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on ZO ZO</title><link>http://upbeat-goldberg-4bd42b.netlify.app/categories/</link><description>Recent content in Categories on ZO ZO</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://upbeat-goldberg-4bd42b.netlify.app/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on A Hugo Site</title>
+    <link>https://upbeat-goldberg-4bd42b.netlify.app/categories/</link>
+    <description>Recent content in Categories on A Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright><atom:link href="https://upbeat-goldberg-4bd42b.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
